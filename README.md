@@ -24,8 +24,8 @@ __Configuração e Compilação:__
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/anadisigant/Temporizador-periodico.git
-   cd Temporizador-periodico
+   git clone https://github.com/anadisigant/Temporizador-de-um-disparo-One-Shot-.git
+   cd Temporizador-de-um-disparo-One-Shot-
    ```
 2. Configure o ambiente:
    ```sh
