@@ -48,5 +48,5 @@ __Configuração e Compilação:__
 __Uso__
 
 1. Após carregar o firmware no Raspberry Pi Pico, o temporizador será inicializado.
-2. O código está configurado para acionar eventos em intervalos regulares.
+2. O código está configurado para acionar eventos em intervalos regulares após o pressionamento do botão.
 3. Para modificar o tempo do temporizador, ajuste os parâmetros no código-fonte.
